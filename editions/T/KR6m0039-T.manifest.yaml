@@ -1,0 +1,132 @@
+canonical_identifier: bkk:krp/KR6m0039/T/v1
+canonical_location: https://kanripo.org/bkk/KR6m0039/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 肇論疏
+  identifiers:
+    krp: KR6m0039
+    cbeta: T45n1859
+    cbeta_old_id: T45n1859
+    authorityid: CA0004038
+    json_key: T1859
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1859.xml
+    old_id: T45n1859
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6m0039_000-T.yaml, hash: 'sha256:15d1f020c13920b91359be16cde48815a07a26ae602f3deb409c81cf7f85b79c'}
+  - {seq: 1, filename: KR6m0039_001-T.yaml, hash: 'sha256:34cbe30c07f5b583f7e50d9ce8677320a8d35572f6aa4eabb6f9f162104950d0'}
+  - {seq: 2, filename: KR6m0039_002-T.yaml, hash: 'sha256:7ec11b8b0824f96db531e47c9f591d38e64a90367e87070b14d0f0c02c8f11fa'}
+  - {seq: 3, filename: KR6m0039_003-T.yaml, hash: 'sha256:e11be33592c95f6a93c189e6018b57f1b4f94b0303ae7eb56e98bd63a7941a03'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6m0039_000-T.markers.yaml, hash: 'sha256:59a6c089d3ee9094704c05165e689a8a931e93bd1ace1860c70c024af9e82582'}
+  - {seq: 1, role: markers, filename: assets/KR6m0039_001-T.markers.yaml, hash: 'sha256:5765fa4ae536e4226a3f2cee9ac0be775bc769fc5eb96a93e0523bc5ade72bfa'}
+  - {seq: 2, role: markers, filename: assets/KR6m0039_002-T.markers.yaml, hash: 'sha256:8b8cf7d7613d6a934acae81cff7d67884dc5a30f98a975759a09baa44870704b'}
+  - {seq: 3, role: markers, filename: assets/KR6m0039_003-T.markers.yaml, hash: 'sha256:6c05e753a9b6fbed868c7dc1f975f2fe10c4f64a21a73dd8ec656296a8cbbbe4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6m0039_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 18746
+  label: 肇論疏卷上　序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0039_T_001-mulu-1
+    span:
+    - body
+    - 4840
+    - 4840
+  label: 宗本義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0039_T_001-mulu-2
+    span:
+    - body
+    - 7366
+    - 7366
+  label: 物不遷論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6m0039_T_001-mulu-3
+    span:
+    - body
+    - 12930
+    - 12930
+  label: 不真空論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0039_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 21542
+  label: 肇論疏卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0039_T_002-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 般若無知論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0039_T_002-mulu-2
+    span:
+    - body
+    - 9989
+    - 9989
+  label: 隱士劉遺民書問
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6m0039_T_002-mulu-3
+    span:
+    - body
+    - 13583
+    - 13583
+  label: 答劉隱士書
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0039_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 16011
+  label: 肇論疏卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6m0039_T_003-mulu-1
+    span:
+    - body
+    - 4
+    - 4
+  label: 涅槃無名論并表上秦主姚興
+  type: mulu
+  level: 1
+hash: sha256:c9ec84b31c6cb5270ea920dca9336f55cb89a8d3a6ce36abb378b6af107d2c0c
