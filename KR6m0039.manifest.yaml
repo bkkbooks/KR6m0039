@@ -28,13 +28,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6m0039_000.yaml, hash: 'sha256:15d1f020c13920b91359be16cde48815a07a26ae602f3deb409c81cf7f85b79c'}
-  - {seq: 1, filename: KR6m0039_001.yaml, hash: 'sha256:798542a046dc7865d69c49a3e65ce4b5b2e818b2b64abdfa5a65a2f9fdb3e6cc'}
-  - {seq: 2, filename: KR6m0039_002.yaml, hash: 'sha256:1b71469130f1195603190710dc2695c28c544443a364a904a13244be7d08c08f'}
-  - {seq: 3, filename: KR6m0039_003.yaml, hash: 'sha256:a41aede255c4d038abbd5899856b174197ca401ce2aa614946fced3cf27c4dcf'}
+  - {seq: 1, filename: KR6m0039_001.yaml, hash: 'sha256:34cbe30c07f5b583f7e50d9ce8677320a8d35572f6aa4eabb6f9f162104950d0'}
+  - {seq: 2, filename: KR6m0039_002.yaml, hash: 'sha256:7ec11b8b0824f96db531e47c9f591d38e64a90367e87070b14d0f0c02c8f11fa'}
+  - {seq: 3, filename: KR6m0039_003.yaml, hash: 'sha256:e11be33592c95f6a93c189e6018b57f1b4f94b0303ae7eb56e98bd63a7941a03'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6m0039_001.markers.yaml, hash: 'sha256:34695c9cbb9207ca43b0a733f8df3983d85def996d93d24f620a3498ee1bdd59'}
-  - {seq: 2, role: markers, filename: assets/KR6m0039_002.markers.yaml, hash: 'sha256:c04249762f89fe7ddd0097c532f0111b45d27ae79c3b1d9d65cefc2aaad3c5e5'}
-  - {seq: 3, role: markers, filename: assets/KR6m0039_003.markers.yaml, hash: 'sha256:01c2198d7767bdfea8a63cd9e81b72b6ab1664c8a2ea778b65e2f30ed53cfe60'}
+  - {seq: 0, role: markers, filename: assets/KR6m0039_000.markers.yaml, hash: 'sha256:21e2a3851341845a5d63243400cf27cfac20845fb90e29bb4d89ef977be6f0ca'}
+  - {seq: 1, role: markers, filename: assets/KR6m0039_001.markers.yaml, hash: 'sha256:78b20e33fb6216c4130c60a31bca1a7cd6309e58242bb5065bb58ef5f8aaba33'}
+  - {seq: 2, role: markers, filename: assets/KR6m0039_002.markers.yaml, hash: 'sha256:33092c51d54bb04ca6ccd722b71a375a6e1e66fadaf9c65a0511ba4351462d41'}
+  - {seq: 3, role: markers, filename: assets/KR6m0039_003.markers.yaml, hash: 'sha256:014017f913792ba31966cad27a5edbb3f2bd8a942023a2190abdffe0b23ef45f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -136,7 +137,4 @@ table_of_contents:
   label: 涅槃無名論并表上秦主姚興
   type: mulu
   level: 1
-hash: sha256:5034864ee7260c4ed8497a8e0543c2dbbfef46ee0b8986910127ec1ea533a623
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:553301c885fc0d5d4e71294be2a9b09c8335524fa7db734b1da4c1c1190044c7
