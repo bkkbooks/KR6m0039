@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6m0039/v1
 canonical_location: https://kanripo.org/bkk/KR6m0039/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 肇論疏
   identifiers:
@@ -28,14 +28,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6m0039_000.yaml, hash: 'sha256:15d1f020c13920b91359be16cde48815a07a26ae602f3deb409c81cf7f85b79c'}
-  - {seq: 1, filename: KR6m0039_001.yaml, hash: 'sha256:34cbe30c07f5b583f7e50d9ce8677320a8d35572f6aa4eabb6f9f162104950d0'}
-  - {seq: 2, filename: KR6m0039_002.yaml, hash: 'sha256:7ec11b8b0824f96db531e47c9f591d38e64a90367e87070b14d0f0c02c8f11fa'}
-  - {seq: 3, filename: KR6m0039_003.yaml, hash: 'sha256:e11be33592c95f6a93c189e6018b57f1b4f94b0303ae7eb56e98bd63a7941a03'}
+  - {seq: 1, filename: KR6m0039_001.yaml, hash: 'sha256:896b981d287ff88ad181aab5b986bb2e29ae0fe3302fafcd241f232b4df51905'}
+  - {seq: 2, filename: KR6m0039_002.yaml, hash: 'sha256:f7bd122b8233b486561b70482ca4115d72d6ec5588e5f34be33981f674dba288'}
+  - {seq: 3, filename: KR6m0039_003.yaml, hash: 'sha256:3b9c31c8a0dee70969100b98bb96a1f6656aa514aa0fa6db6c68a3e8bbe6b266'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6m0039_000.markers.yaml, hash: 'sha256:21e2a3851341845a5d63243400cf27cfac20845fb90e29bb4d89ef977be6f0ca'}
-  - {seq: 1, role: markers, filename: assets/KR6m0039_001.markers.yaml, hash: 'sha256:78b20e33fb6216c4130c60a31bca1a7cd6309e58242bb5065bb58ef5f8aaba33'}
-  - {seq: 2, role: markers, filename: assets/KR6m0039_002.markers.yaml, hash: 'sha256:33092c51d54bb04ca6ccd722b71a375a6e1e66fadaf9c65a0511ba4351462d41'}
-  - {seq: 3, role: markers, filename: assets/KR6m0039_003.markers.yaml, hash: 'sha256:014017f913792ba31966cad27a5edbb3f2bd8a942023a2190abdffe0b23ef45f'}
+  - {seq: 1, role: markers, filename: assets/KR6m0039_001.markers.yaml, hash: 'sha256:c0b0f45450e753efa0f3498be5e23e94b2debcfb1666c114ca4b445ca3358fd3'}
+  - {seq: 2, role: markers, filename: assets/KR6m0039_002.markers.yaml, hash: 'sha256:b77d1efd3effe729ed2715531864e2cad193b1d72fd66a4dfdd5d99284499c13'}
+  - {seq: 3, role: markers, filename: assets/KR6m0039_003.markers.yaml, hash: 'sha256:650ae6121b3b8cd941a671d3dc45ed6b855c5e91b1b4b6e6a2f91d26ef06fbc8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -137,4 +137,7 @@ table_of_contents:
   label: 涅槃無名論并表上秦主姚興
   type: mulu
   level: 1
-hash: sha256:553301c885fc0d5d4e71294be2a9b09c8335524fa7db734b1da4c1c1190044c7
+hash: sha256:db21ede987b7f5b42703be5727818c939941d866fe9b04a2b32a9d7c13dff020
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
